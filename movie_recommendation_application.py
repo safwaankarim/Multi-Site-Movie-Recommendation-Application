@@ -1,5 +1,4 @@
-# Safwaan Karim Homework 9
-
+# Movie Recommendation Application
 
 # Note: All the different thresholds for scores were set based on my own personal preference
 
